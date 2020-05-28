@@ -1,2 +1,0 @@
-# LearnWebHookTest
-Azure Webhook Procatice
